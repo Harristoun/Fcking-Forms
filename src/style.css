@@ -1,0 +1,32 @@
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+
+}
+
+.button {
+    background-color:cadetblue;
+    border-radius: 3px;
+    border: none;
+    height: 58px;
+    width: 20%;
+}
+
+.input {
+  
+    width: 50%;
+    height: 50px;
+    
+}
+.send {
+    display: flex;
+    justify-content: center;
+    color: chartreuse;
+}
+.emply {
+    display: flex;
+    justify-content: center;
+    color: red
+}
